@@ -80,11 +80,11 @@
 <br>
 
 ## 📌 SW유스케이스
-![image](https://user-images.githubusercontent.com/99248886/166611717-6a761c62-393f-444b-9945-34d5533b50dc.png)
+![image](https://user-images.githubusercontent.com/25995055/178400627-9c3441e2-aff0-48ef-8ec8-ada9f1384d8e.png)
 <br>
 
 ## 📌 서비스 흐름도(웹 화면설계서)
-![image](https://user-images.githubusercontent.com/99248886/166611795-b01ddc4f-8236-4955-ae77-be4b576025d7.png)
+![image](https://user-images.githubusercontent.com/25995055/178400603-2de9f610-1af2-49b8-a856-c4a5be2f266f.png)
 <br>
 
 ## 📌 ER다이어그램
@@ -92,20 +92,26 @@
 <br>
 
 ## 🖥 사용 부품 이미지
-![image](https://user-images.githubusercontent.com/25995055/178395929-fa9e5e45-5419-4952-a9f1-11e329bcb0b1.png)
+![image](https://user-images.githubusercontent.com/25995055/178399352-db2b1b89-c0b2-446a-95c8-83e396164796.png)
 <br>
 
 ## 🖥 회로도 이미지
-![image](https://user-images.githubusercontent.com/25995055/178395734-70952ccc-4598-45dd-b296-5e2b60ec5cad.png)
+사용자 감지 및 분사
+![image](https://user-images.githubusercontent.com/25995055/178399249-7911321e-9e86-49ba-a185-175e1dabf79c.png)
+
+UV소독
+![image](https://user-images.githubusercontent.com/25995055/178399270-9b94909b-7e04-47aa-ab19-16627505a808.png)
 <br>
 
 ## 🖥 화면 구성
 ### [완성된 제품]
-![image](https://user-images.githubusercontent.com/25995055/178396326-1526516b-2947-422b-be99-4bb19f2ba41a.png)
+![image](https://user-images.githubusercontent.com/25995055/178399497-8c2d0aff-9372-4f04-986f-7c5c86a986cb.png)
 <br>
 
 ### [어플리케이션]
-![image](https://user-images.githubusercontent.com/25995055/178396280-2e3397a2-5f35-4c98-972e-b28b61863663.png)
+![image](https://user-images.githubusercontent.com/25995055/178399515-fb47f58e-1d40-4133-8d00-36cd82edfb71.png)
+![image](https://user-images.githubusercontent.com/25995055/178399545-c46bf42a-39bf-4b42-9545-c6ea12c27fe8.png)
+
 <br>
 
 ## 👨‍👩‍👦‍👦 팀원 역할
