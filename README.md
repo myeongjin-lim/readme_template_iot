@@ -1,9 +1,9 @@
-# 📎 꽃 보러 갈래?(팀명: MATCH&FIX)
-![그림1](https://user-images.githubusercontent.com/25995055/178395409-01bdd409-f216-4f8c-8ddf-2bea401bd828.png)
+# 📎 누르미(팀명: Make 美 Up)
+![image](https://user-images.githubusercontent.com/25995055/178400839-9b1583d0-3ce6-4e59-99a7-9a62be6f7a04.png)
 
 
 ## 👀 서비스 소개
-* 서비스명: 모바일 앱을 활용한 IoT 스마트 옷장
+* 서비스명: 생체 인식 기반 디스펜서와 스마트 미러를 부착한 반응형 화장대
 * 서비스설명: 
 <br>
 
@@ -83,8 +83,15 @@
 ![image](https://user-images.githubusercontent.com/25995055/178400627-9c3441e2-aff0-48ef-8ec8-ada9f1384d8e.png)
 <br>
 
-## 📌 서비스 흐름도(웹 화면설계서)
-![image](https://user-images.githubusercontent.com/25995055/178400603-2de9f610-1af2-49b8-a856-c4a5be2f266f.png)
+## 📌 서비스 흐름도
+* 디스펜서(사용자 감지 및 자동 분사)
+![image](https://user-images.githubusercontent.com/25995055/178399777-084942e8-4e39-4249-8f99-8aa2d1fd0db4.png)
+
+* 스마트미러(사용자 얼굴 인식 및 정보 안내) 
+![image](https://user-images.githubusercontent.com/25995055/178399839-9e3a97ae-9f30-4fee-89ac-2a47970bff31.png)
+
+* 모바일 어플리케이션(화장품 정보 등록/수정/삭제)
+![image](https://user-images.githubusercontent.com/25995055/178399884-9353f495-cb38-4524-ba42-b6dbe034e9e0.png)
 <br>
 
 ## 📌 ER다이어그램
